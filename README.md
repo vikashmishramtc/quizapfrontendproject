@@ -2,8 +2,8 @@
 
 ### This is a group project created by
 
-1. kush kashyap(Team Leader).
-2. vikash Mishra
+1. Kush Kashyap(Team Leader).
+2. Vikash Mishra
 3. Ankit sharma
 ## Use the following command to get started :-
 
